@@ -5,9 +5,9 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.keys import Keys
 
-USERNAME = "eppydev21@gmail.com"
-PASSWORD = "Wanjira@21"
-PHONE_NUMBER = "0703687201"
+USERNAME = "yor-email@gmail.com"
+PASSWORD = "your-password"
+PHONE_NUMBER = "Your-phone-number"
 
 
 def abort_application():
